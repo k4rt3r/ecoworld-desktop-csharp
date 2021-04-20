@@ -1,0 +1,217 @@
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+D:\DAM2\proyecto\windowsform\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPregunta.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarAnadirP.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarModificarP.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearPregunta.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarPreguntas.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarAnadirA.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarModificarA.resources
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarAnadirA.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarAnadirP.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarModificarA.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarModificarP.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearPregunta.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarPreguntas.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarTiempo.resources
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Santi\Desktop\Facultad\Politecnics\Curso 2º\Proyecto\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarTiempo.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarTiempo.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearPregunta.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarPreguntas.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+C:\Users\Moonwalker\Downloads\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearPregunta.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarPreguntas.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\COPIA DE SEGURIDAD PROYECTO ESCRITORIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Moonwalker\Desktop\PRUEBA ELIMINAR UN FORMULARIO\WindowsFormPrototipos\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joan\Downloads\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe.config
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.pdb
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.dll
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.xml
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearActivista.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.modificarActivistas.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.exe
+D:\DAM2\proyecto\windowsform\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\APP ESCRITORIO - PRUEBA\CORRECTAFINAL_Drop_DOWN\CORRECTAFINAL\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarActivistas.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarActivistas.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Moonwalker\Desktop\ESCRITORIO DRIVE\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csprojAssemblyReference.cache
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarA.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.confirmarEliminarP.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.FormPrincipal.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarPregunta.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarActivistas.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.gestionarPreguntas.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.crearModificarActivistas.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.Properties.Resources.resources
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.GenerateResource.cache
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.exe
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.pdb
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe.config
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.exe
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\bin\Debug\WindowsFormPrototipos.pdb
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joan\Downloads\V2_APP_ECOWORLD_ESCRITORIO\APP_ESCRITORIO_ECOWORLD\obj\Debug\WindowsFormPrototipos.csproj.CopyComplete
